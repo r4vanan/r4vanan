@@ -3,6 +3,11 @@
 <a href="https://www.hackthebox.com/home/users/profile/100836">
  <img align="left" alt="hackthebox" width="22px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />
 </a>
+<a href="https://twitter.com/r4vanan">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 <!--
 
  <img align="left" alt="hackthebox" width="22px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />
