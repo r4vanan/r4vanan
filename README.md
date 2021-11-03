@@ -7,9 +7,7 @@
 <a href="https://twitter.com/r4vanan">
   <img align="left" alt="Vinoth kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-'''bash
-echo 'hello'
-'''
+
 
 <!--
 
