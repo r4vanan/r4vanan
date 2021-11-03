@@ -6,7 +6,7 @@
 <a href="https://twitter.com/r4vanan">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=r4vanan.r4vanan)
+![](https://visitor-badge.glitch.me/badge?page_id=r4vanan.r4vanan.issue.1)
 
 <!--
 
