@@ -4,9 +4,9 @@
  <img align="left" alt="hackthebox" width="22px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />
 </a>
 <a href="https://twitter.com/r4vanan">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vinoth kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=r4vanan.r4vanan.issue.1)
+[![Me on GitHub](https://img.shields.io/github/followers/r4vanan?label=ravana69&style=social)](https://github.com/r4vanan)
 
 <!--
 
