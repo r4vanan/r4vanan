@@ -7,6 +7,8 @@
 <a href="https://twitter.com/r4vanan">
   <img align="left" alt="Vinoth kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<script src="https://www.hackthebox.eu/badge/100836"></script>
+
 
 
 <!--
