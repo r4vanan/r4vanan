@@ -23,6 +23,6 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-<a href=javascript:alert()>test</a>
+<a ondblclick='alert(1)'><h1>test</h1></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
